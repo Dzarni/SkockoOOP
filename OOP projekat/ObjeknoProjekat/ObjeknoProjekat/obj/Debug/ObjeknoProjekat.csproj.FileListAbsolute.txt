@@ -1,0 +1,10 @@
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\bin\Debug\ObjeknoProjekat.exe.config
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\bin\Debug\ObjeknoProjekat.exe
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\bin\Debug\ObjeknoProjekat.pdb
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.Properties.Resources.resources
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.exe
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.pdb
+C:\Users\Nikola\Desktop\OOP projekat\ObjeknoProjekat\ObjeknoProjekat\obj\Debug\ObjeknoProjekat.Form1.resources
